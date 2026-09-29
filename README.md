@@ -73,11 +73,6 @@ Example screenshot assets:
 - `docs/screenshots/customer_insights.png`
 - `docs/screenshots/risk_assessment.png`
 
-Embedded preview examples:
-
-![Customer Insights Dashboard](docs/screenshots/customer_insights.png)
-
-![Risk Assessment Dashboard](docs/screenshots/risk_assessment.png)
 
 ## Setup
 
