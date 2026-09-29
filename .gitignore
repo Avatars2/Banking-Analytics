@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Large data (optional — remove these lines if you want data tracked in git)
+# data/raw/*.csv
+# data/processed/*.csv
